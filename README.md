@@ -6,4 +6,4 @@ wget https://github.com/code-gigas/cyberkith/blob/main/flag.jpeg
 ```
 ### Everything is hidden use exif , steghide etc
 
-key = F14G
+#### Find the F14G = key
