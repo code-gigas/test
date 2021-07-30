@@ -1,4 +1,4 @@
-# Cyber-Kith CTF 2
+# Cyber-Kith CTF 3
 
 ### Step.1
 ```
