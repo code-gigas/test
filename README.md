@@ -1,10 +1,9 @@
 # Cyber-Kith CTF 3
 
-### Step.1
+### Step.1 paste below link in terminal
 ```
-wget link
+wget https://github.com/code-gigas/cyberkith/blob/main/flag.jpeg
 ```
-
 ### Everything is hidden use exif , steghide etc
 
 key = F14G
